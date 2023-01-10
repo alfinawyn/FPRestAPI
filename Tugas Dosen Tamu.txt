@@ -1,0 +1,26 @@
+Tugas dari Dosen Tamu (Jawaban 1 dan 3)
+
+1. Apa itu REST API 
+   REST API merupakan salah satu arsitektur yang ada di API (Application Programming Interface). Lalu REST atau 
+   (Representational State Transfer) ini memiliki keunggulan dalam pemakainnya karena kemudahannya. kemudahan 
+   tersebut berupa adanya coding yang tidak terlalu panjang dan ribet. Kemudian data yang ada di dalam REST API
+   ini dalam bentuk JSON sehingga mobilitas data lebih cepat. Pada REST API ini memiliki ketergantungan pada bagian
+   tertentu seperti pengkodean bahkan fungsi khusus.
+
+3. Headless architecture
+   Headless architecture sangat menyederhanakan penerbitan multichanel. Meskipun CMS konvensional sempurna untuk
+   memublikasikan konten ke platform jenis situs web, CMS tersebut tidak dirancang untuk mengoptimalkan alur kerja 
+   konten dengan memungkinkan pengguna memposting secara dinamis ke berbagai platform. Pengguna saat ini mengharapkan 
+   pengalaman yang mulus di seluruh perangkat dan saluran, yang berarti bahwa pengembangan dan pembuat konten harus 
+   beradaptasi dengan permintaan ini. Headless architecture memberikan jawaban yang menarik untuk kebutuhan beberapa 
+   sistem untuk bekerja sama meskipun tujuan dan fungsinya berbeda.
+   
+   Disisi lain, Headless architecture menghilangkan sistem front-end yang telah ditentukan sebelumnya. Ini berarti 
+   bahwa tidak ada definisi khusus tentang bagaimana konten disajikan kepada pengguna akhir dan pembuatan dan penyajian 
+   tidak lagi digabungkan. Hasilnya konten mentah dapat dipublishkan melalui kerangka apa pun dan mengakomodasi 
+   perangkat apa pun, hampir di mana saja.
+   Untuk mencapai hal ini, konten dipublishkan melalui layanan web atau API yang dirancang untuk mendorongnya ke
+   perangkat pengguna akhir, ini memperkenalkan gagasan Content as a Service (CaaS), dimana konten dibuat satu kali 
+   dan disediakan dalam format XML atau JSON ke tingkatan presentasi yang dapat meminta dan menerbitkannya berkali - kali.
+   Pada Headless architecture format pengiriman jauh lebih mudah karena konten dapat dikelola di hampir semua format tersebut.
+
